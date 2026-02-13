@@ -97,12 +97,10 @@ Built using **Laravel 11 + Bootstrap + PostgreSQL**
 
 ---
 
+
 ## 📊 GitHub Stats
 
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicky0700018)
-```
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicky0700018&theme=radical)
 
 ## 🌐 Connect With Me
 
@@ -111,15 +109,7 @@ Built using **Laravel 11 + Bootstrap + PostgreSQL**
 
 🔗 GitHub: [https://github.com/TridevSharma1](https://github.com/TridevSharma1)
 🔗 LinkedIn: [https://linkedin.com/in/tridevsharma1](https://linkedin.com/in/tridevsharma1)
-🌍 Portfolio: (Add your portfolio link here)
+🌍 Portfolio: https://vickyportfolioo.lovable.app
 
 ---
 
-If you want, I can now:
-
-* 🔥 Make it **more attractive with animations**
-* 🏢 Make it **placement-ready professional version**
-* 📄 Convert this into **resume format**
-* 🌐 Build a matching **portfolio website design**
-
-Batao next kya improve karein 🚀
