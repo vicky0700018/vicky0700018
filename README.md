@@ -101,12 +101,8 @@ Built using **Laravel 11 + Bootstrap + PostgreSQL**
 
 ```markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicky0700018)
 ```
-
-👉 Replace `yourusername` with your actual GitHub username.
-
----
 
 ## 🌐 Connect With Me
 
