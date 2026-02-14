@@ -100,7 +100,8 @@ Built using **Laravel 11 + Bootstrap + PostgreSQL**
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicky0700018&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=vicky0700018&theme=radical)
+
 
 ## 🌐 Connect With Me
 
