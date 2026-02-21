@@ -1,7 +1,6 @@
-<!-- ================= HEADER SECTION ================= -->
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/857ef00c-642f-4e05-b4b7-7e04300c2103" /><!-- ================= HEADER SECTION ================= -->
 
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Laravel+Developer;Passionate+Web+Developer;Always+Learning+Always+Building" />
@@ -10,12 +9,6 @@
 ---
 
 <!-- ================= BANNER IMAGE ================= -->
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
-</p>
-
----
 
 ## 🚀 About Me
 
